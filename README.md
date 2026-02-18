@@ -61,14 +61,6 @@ View the dashboard on Tableau Public:
 
 ---
 
-## 📂 GitHub Repository
-
-Project Repository:
-
-👉 https://github.com/Sanketkshirsagar05/Tableau-Spend-Analytics-Dashboard-
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I strengthened my skills in:
