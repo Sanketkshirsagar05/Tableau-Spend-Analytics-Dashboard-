@@ -21,6 +21,20 @@ The goal was to build a structured, insight-driven dashboard rather than just a 
 
 ---
 
+## 📸 Dashboard Screenshots
+
+### 🟢 Executive Summary Dashboard
+
+![Executive Summary](https://raw.githubusercontent.com/Sanketkshirsagar05/Tableau-Spend-Analytics-Dashboard-/main/Dashboard%20Screenshot/Dash%201.png)
+
+---
+
+### 🟢 Detailed Spend Analysis Dashboard
+
+![Detailed Dashboard](https://raw.githubusercontent.com/Sanketkshirsagar05/Tableau-Spend-Analytics-Dashboard-/main/Dashboard%20Screenshot/Dash%202.png)
+
+---
+
 ## 📅 Dataset Information
 
 - Date Range: **12-08-2017 to 29-11-2020**
@@ -55,9 +69,13 @@ The goal was to build a structured, insight-driven dashboard rather than just a 
 
 ## 🔗 Live Dashboard
 
-View the dashboard on Tableau Public:
-
 👉 https://public.tableau.com/app/profile/sanket.kshirsagar/viz/SpendAnalyticsDashboard_17712323425180/ExecutiveSummary
+
+---
+
+## 📂 GitHub Repository
+
+👉 https://github.com/Sanketkshirsagar05/Tableau-Spend-Analytics-Dashboard-
 
 ---
 
