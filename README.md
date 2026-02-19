@@ -73,12 +73,6 @@ The goal was to build a structured, insight-driven dashboard rather than just a 
 
 ---
 
-## 📂 GitHub Repository
-
-👉 https://github.com/Sanketkshirsagar05/Tableau-Spend-Analytics-Dashboard-
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I strengthened my skills in:
