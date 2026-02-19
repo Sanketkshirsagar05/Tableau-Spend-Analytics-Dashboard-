@@ -29,7 +29,7 @@ The goal was to build a structured, insight-driven dashboard rather than just a 
 
 ---
 
-### 🟢 Detailed Spend Analysis Dashboard
+### 🟢 Vendor Detail  Dashboard
 
 ![Detailed Dashboard](https://raw.githubusercontent.com/Sanketkshirsagar05/Tableau-Spend-Analytics-Dashboard-/main/Dashboard%20Screenshot/Dash%202.png)
 
