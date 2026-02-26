@@ -44,7 +44,8 @@ The goal was to build a structured, insight-driven dashboard rather than just a 
   - 2018 → 128 Vendors
   - 2019 → 123 Vendors
   - 2020 → 122 Vendors
-
+  - 
+- Data Generated Using: Mockaroo (Synthetic Data Generator)
 ---
 
 ## 🛠 Tools & Technologies Used
